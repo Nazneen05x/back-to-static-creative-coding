@@ -8,7 +8,7 @@
   <ul class="ullinks">
     <li>Over</li>
     <li>Artikelen</li>
-    <li>Tekemethodes</li>
+    <li>Tekenmethodes</li>
     <li>Kennisclips</li>
   </ul>
 
