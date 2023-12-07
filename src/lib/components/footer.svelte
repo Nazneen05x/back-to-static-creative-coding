@@ -41,7 +41,6 @@
     margin-top: 1.5em;
     padding: 1.5em;
     margin: -1em;
-    background: rgb(192, 190, 185);
     background: linear-gradient(
       90deg,
       rgba(192, 190, 185, 1) 14%,
