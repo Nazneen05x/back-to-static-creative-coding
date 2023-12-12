@@ -45,7 +45,7 @@
 
   p {
     font-family: var(--vtPrimaryFont);
-
+    color: hotpink;
     font-size: 31px;
     font-weight: bold;
     position: absolute;
