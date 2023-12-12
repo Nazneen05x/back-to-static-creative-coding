@@ -1,4 +1,6 @@
 <nav>
+  <img class="popartrondjes" src="/rondjes.svg" alt="rondjes" />
+
   <ul>
     <li><a href="/#">Tekenmethodes</a></li>
     <li><a href="#kennisclips">Kennisclips</a></li>
@@ -10,6 +12,8 @@
     <li><a href="#overons">Over</a></li>
     <li><a href="/#">Artikelen</a></li>
   </ul>
+
+  <img class="popartwolk" src="/popartwolk.svg" alt="popartwolk" />
 </nav>
 
 <style>
@@ -20,7 +24,7 @@
     justify-content: center;
     align-items: center;
     margin: -1em;
-    padding: 2em;
+    padding: -1em;
     gap: 2em;
   }
 
@@ -46,6 +50,21 @@
   img {
     height: auto;
     width: 4em;
+  }
+
+  .popartwolk {
+    height: auto;
+    width: 15em;
+    position: relative;
+    left: 5em;
+  }
+
+  .popartrondjes {
+    height: auto;
+    width: 12em;
+    position: relative;
+    left: -12em;
+    top: 0em;
   }
 
   /* MOBILE STYLING*/

@@ -1,9 +1,9 @@
 <section id="overons" class="overons">
-  <h1>hoiu</h1>
-  <p>hydunjshbfyusjnbfujns</p>
+  <!-- <h1>hoiu</h1>
+  <p>hydunjshbfyusjnbfujns</p> -->
 </section>
 
-<section class="slide" onclick="toggleSlide()"></section>
+<section class="slide"></section>
 
 <style>
   .slide {
@@ -26,5 +26,6 @@
   .slide {
     opacity: 1;
     transform: translatex(0);
+    transition-delay: 1s;
   }
 </style>

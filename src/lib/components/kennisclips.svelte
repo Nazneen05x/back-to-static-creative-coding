@@ -7,7 +7,7 @@
   .kennisclips {
     width: 90em;
     height: 42em;
-    background-color: blueviolet;
+    background-color: pink;
     margin: -0.5em;
     position: absolute;
     top: 1.5em;
