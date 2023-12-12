@@ -12,7 +12,7 @@
     <li><a href="#overons">Over</a></li>
     <li><a href="/#">Artikelen</a></li>
   </ul>
-
+  <p aria-label="AAA">AAAH!!</p>
   <img class="popartwolk" src="/popartwolk.svg" alt="popartwolk" />
 </nav>
 
@@ -41,6 +41,35 @@
     color: var(--vtDarkBlue);
     font-weight: bold;
     margin: 1em;
+  }
+
+  p {
+    font-family: var(--vtPrimaryFont);
+    color: hotpink;
+    font-size: 31px;
+    font-weight: bold;
+    position: absolute;
+    left: 39em;
+    z-index: 1;
+    rotate: 10deg;
+    top: 2em;
+    text-shadow: 2px 1px;
+    font-style: oblique;
+  }
+
+  @keyframes AAA-animation {
+    0% {
+      scale: 1;
+    }
+    100% {
+      scale: 2;
+    }
+  }
+
+  p[aria-label="AAA"] {
+    animation-name: AAA-animation;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
   }
 
   a:hover {
