@@ -45,7 +45,7 @@
 
   p {
     font-family: var(--vtPrimaryFont);
-    color: hotpink;
+
     font-size: 31px;
     font-weight: bold;
     position: absolute;
@@ -53,7 +53,8 @@
     z-index: 1;
     rotate: 10deg;
     top: 2em;
-    text-shadow: 2px 1px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
     font-style: oblique;
   }
 
