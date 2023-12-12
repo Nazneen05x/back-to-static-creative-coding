@@ -4,7 +4,7 @@
   <img
     class="footerimg"
     src="/visual-thinking-logo-footer.svg"
-    alt="footerlogo"
+    alt="Visual thinking"
   />
 
   <ul class="ullinks">
@@ -19,13 +19,13 @@
 
     <ul class="logoimglist">
       <li>
-        <img class="logoimg" src="/instagram.svg" alt="instagramlogo" />
+        <img class="logoimg" src="/instagram.svg" alt="instagram" />
       </li>
       <li>
-        <img class="logoimg" src="/youtube.svg" alt="youtubelogo" />
+        <img class="logoimg" src="/youtube.svg" alt="youtube" />
       </li>
       <li>
-        <img class="logoimg" src="/linkedin.svg" alt="linkedinlogo" />
+        <img class="logoimg" src="/linkedin.svg" alt="linkedin" />
       </li>
     </ul>
 
@@ -37,6 +37,7 @@
 </footer>
 
 <style>
+  /* MOBILE STYLING*/
   footer {
     margin-top: 1.5em;
     padding: 1.5em;
@@ -139,6 +140,7 @@
     }
   }
 
+  /* DESKTOP STYLING */
   @media only screen and (min-width: 900px) {
     footer {
       display: flex;
@@ -175,38 +177,17 @@
 
     .star1 {
       margin-left: -18em;
-      top: 2em;
-      position: absolute;
-      width: 6px;
-      height: 6px;
-      background-color: #feb51e;
-      border-radius: 50%;
-      opacity: 0;
-      animation: sparkle 3s infinite;
+      top: 4em;
     }
 
     .star2 {
       margin-left: 9em;
       top: 9em;
-      position: absolute;
-      width: 6px;
-      height: 6px;
-      background-color: #feb51e;
-      border-radius: 50%;
-      opacity: 0;
-      animation: sparkle 4s infinite;
     }
 
     .star3 {
       margin-left: 80em;
       top: 9em;
-      position: absolute;
-      width: 8px;
-      height: 8px;
-      background-color: #feb51e;
-      border-radius: 50%;
-      opacity: 0;
-      animation: sparkle 4s infinite;
     }
 
     @keyframes sparkle {
