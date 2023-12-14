@@ -112,17 +112,8 @@
     }
 
     nav {
-      background-blend-mode: soft-light;
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-color: #ffe1a5;
-      display: flex;
-      justify-content: center;
-      align-items: center;
       margin: -1em;
       padding: 3em;
-      gap: 2em;
-      view-transition-name: nav;
     }
   }
 </style>
