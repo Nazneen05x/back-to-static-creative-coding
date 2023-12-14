@@ -1,4 +1,8 @@
-<nav>
+<script>
+  let backgroundImage = "url(abstract-comic.avif)";
+</script>
+
+<nav style="background-image: {backgroundImage};">
   <ul>
     <li><a href="/#">Tekenmethodes</a></li>
     <li><a href="/kennisclips">Kennisclips</a></li>
@@ -18,7 +22,7 @@
   /* DESKTOP STYLING */
 
   nav {
-    background-image: url(abstract-comic.avif);
+    /* background-image: url(abstract-comic.avif); */
     background-blend-mode: soft-light;
     background-size: cover;
     background-repeat: no-repeat;
