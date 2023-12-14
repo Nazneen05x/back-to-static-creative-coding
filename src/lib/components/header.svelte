@@ -1,8 +1,8 @@
 <script>
-  let backgroundImage = "url(abstract-comic.avif)";
+  // let backgroundImage = "url(abstract-comic.avif)";
 </script>
 
-<nav style="background-image: {backgroundImage};">
+<nav>
   <ul>
     <li><a href="/#">Tekenmethodes</a></li>
     <li><a href="/kennisclips">Kennisclips</a></li>

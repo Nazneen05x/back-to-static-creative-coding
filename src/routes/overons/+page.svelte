@@ -1,11 +1,11 @@
 <script>
   import Header from "../../lib/components/header.svelte";
-  let backgroundImage = "url(giphy.gif)";
+  // let backgroundImage = "url(giphy.gif)";
 </script>
 
 <Header />
 
-<section style="background-image: {backgroundImage};">
+<section>
   <section class="smoke-wrap">
     <img class="smoke" src="/smoke.webp" alt="smoke" />
   </section>
