@@ -1,6 +1,6 @@
 <script>
   import Header from "../../lib/components/header.svelte";
-  let backgroundImage = "url(Rn7scw.gif)";
+  let backgroundImage = "url(newpopart.gif)";
 </script>
 
 <Header />
