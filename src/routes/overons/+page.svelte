@@ -117,8 +117,8 @@
       opacity: 1;
     }
   }
-
+  /* 
   iframe {
     margin-left: 1em;
-  }
+  } */
 </style>

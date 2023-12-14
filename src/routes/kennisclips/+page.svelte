@@ -1,10 +1,11 @@
 <script>
   import Header from "../../lib/components/header.svelte";
+  let backgroundImage = "url(Rn7scw.gif)";
 </script>
 
 <Header />
 
-<section>
+<section style="background-image: {backgroundImage};">
   <h1>Onderzoeken en begrijpen</h1>
 
   <p>
@@ -39,6 +40,11 @@
 <style>
   section {
     padding: 3em;
+    margin: -1em;
+    background-repeat: no-repeat;
+    background-position-x: 58em;
+    background-position-y: 4em;
+    background-size: 23vw;
   }
 
   h1 {
