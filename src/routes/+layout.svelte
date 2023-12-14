@@ -48,7 +48,7 @@
 
   :root::view-transition-new(root) {
     animation:
-      210ms cubic-bezier(0, 0, 0.2, 1) 90ms both fade-in,
+      90ms cubic-bezier(0, 0, 0.2, 1) 90ms both fade-in,
       200ms cubic-bezier(0.4, 0, 0.2, 1) both slide-from-right;
   }
 </style>
