@@ -99,11 +99,12 @@
 
   /* MOBILE STYLING*/
   @media only screen and (max-width: 48em) {
-    ul {
-      display: none;
+    nav {
+      margin: -1em;
+      padding: 3em;
     }
 
-    .popartwolk {
+    ul {
       display: none;
     }
 
@@ -111,9 +112,8 @@
       display: none;
     }
 
-    nav {
-      margin: -1em;
-      padding: 3em;
+    .popartwolk {
+      display: none;
     }
   }
 </style>
