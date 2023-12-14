@@ -58,4 +58,19 @@
     font-family: var(--vtSecondaryFont);
     width: 41vw;
   }
+
+  /* MOBILE STYLING*/
+  @media only screen and (max-width: 48em) {
+    h1 {
+      margin-left: 2em;
+    }
+
+    p {
+      line-height: 1.5em;
+      font-size: 17px;
+      font-family: var(--vtSecondaryFont);
+      width: 70vw;
+      margin-left: 3em;
+    }
+  }
 </style>
