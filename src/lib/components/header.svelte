@@ -50,6 +50,10 @@
     margin: 1em;
   }
 
+  a:hover {
+    color: var(--vtRed-50);
+  }
+
   p {
     font-family: var(--vtPrimaryFont);
     font-size: 31px;
@@ -79,10 +83,6 @@
     animation-duration: 1s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
-  }
-
-  a:hover {
-    color: var(--vtRed-50);
   }
 
   img {
