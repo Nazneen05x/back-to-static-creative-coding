@@ -1,8 +1,8 @@
 <script>
-  // let backgroundImage = "url(abstract-comic.avif)";
+  let backgroundImage = "url(abstract-comic.avif)";
 </script>
 
-<nav>
+<nav style="background-image: {backgroundImage};">
   <ul>
     <li><a href="/#">Tekenmethodes</a></li>
     <li><a href="/kennisclips">Kennisclips</a></li>
@@ -23,7 +23,7 @@
 
   nav {
     /* background-image: url(abstract-comic.avif); */
-    background: url(abstract-comic.avif);
+    /* background: url(abstract-comic.avif); */
     background-blend-mode: soft-light;
     background-size: cover;
     background-repeat: no-repeat;
