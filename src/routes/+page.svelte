@@ -4,7 +4,7 @@
   import Kennisclips from "../routes/kennisclips/+page.svelte";
 </script>
 
-<Header />
+<!-- <Header /> -->
 
 <main>
   <Kennisclips />
