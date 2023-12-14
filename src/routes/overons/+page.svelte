@@ -1,6 +1,6 @@
 <script>
   import Header from "../../lib/components/header.svelte";
-  let backgroundImage = "url(giphy.gif)";
+  let backgroundImage = "url(giphy.webp)";
 </script>
 
 <Header />
@@ -80,9 +80,6 @@
   .smoke {
     transform-origin: 50% 50%;
     transform: translateX(-50%);
-  }
-
-  .smoke {
     animation: smoke 3s linear infinite;
   }
 

@@ -67,9 +67,6 @@
     }
 
     p {
-      line-height: 1.5em;
-      font-size: 17px;
-      font-family: var(--vtSecondaryFont);
       width: 70vw;
       margin-left: 3em;
     }
