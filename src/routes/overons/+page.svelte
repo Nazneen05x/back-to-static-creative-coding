@@ -47,7 +47,6 @@
     padding: 3em;
     margin: -1em;
     background-color: black;
-    /* background-image: url(giphy.gif); */
     background-repeat: no-repeat;
     background-position-x: 58em;
     background-blend-mode: hard-light;
@@ -71,6 +70,7 @@
     width: 41vw;
   }
 
+  /* SMOKE ANIMATION */
   .smoke-wrap {
     transform: translateX(-50%);
     position: absolute;
@@ -117,8 +117,4 @@
       opacity: 1;
     }
   }
-  /* 
-  iframe {
-    margin-left: 1em;
-  } */
 </style>

@@ -38,6 +38,7 @@
 </section>
 
 <style>
+  /* DESKTOP STYLING*/
   section {
     padding: 3em;
     margin: -1em;

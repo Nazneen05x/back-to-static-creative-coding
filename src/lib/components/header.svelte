@@ -14,16 +14,15 @@
     <li><a href="/overons">Over</a></li>
     <li><a href="/#">Artikelen</a></li>
   </ul>
+
   <p aria-label="AAA">AAAH!!</p>
+
   <img class="popartwolk" src="/popartwolk.svg" alt="popartwolk" />
 </nav>
 
 <style>
   /* DESKTOP STYLING */
-
   nav {
-    /* background-image: url(abstract-comic.avif); */
-    /* background: url(abstract-comic.avif); */
     background-blend-mode: soft-light;
     background-size: cover;
     background-repeat: no-repeat;
@@ -103,6 +102,7 @@
     ul {
       display: none;
     }
+
     .popartwolk {
       display: none;
     }
@@ -112,8 +112,6 @@
     }
 
     nav {
-      /* background-image: url(abstract-comic.avif); */
-      /* background: url(abstract-comic.avif); */
       background-blend-mode: soft-light;
       background-size: cover;
       background-repeat: no-repeat;
