@@ -1,10 +1,11 @@
 <script>
   import Header from "../../lib/components/header.svelte";
+  let backgroundImage = "url(giphy.gif)";
 </script>
 
 <Header />
 
-<section>
+<section style="background-image: {backgroundImage};">
   <section class="smoke-wrap">
     <img class="smoke" src="/smoke.webp" alt="smoke" />
   </section>
@@ -46,7 +47,7 @@
     padding: 3em;
     margin: -1em;
     background-color: black;
-    background-image: url(giphy.gif);
+    /* background-image: url(giphy.gif); */
     background-repeat: no-repeat;
     background-position-x: 58em;
     background-blend-mode: hard-light;
