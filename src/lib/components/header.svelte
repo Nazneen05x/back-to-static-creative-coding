@@ -1,15 +1,13 @@
 <nav>
-  <img class="popartrondjes" src="/rondjes.svg" alt="rondjes" />
-
   <ul>
     <li><a href="/#">Tekenmethodes</a></li>
-    <li><a href="#kennisclips">Kennisclips</a></li>
+    <li><a href="/kennisclips">Kennisclips</a></li>
   </ul>
 
   <img src="/vtHBO-Logo.svg" alt="vtHBO-Logo" />
 
   <ul>
-    <li><a href="#overons">Over</a></li>
+    <li><a href="/overons">Over</a></li>
     <li><a href="/#">Artikelen</a></li>
   </ul>
   <p aria-label="AAA">AAAH!!</p>
@@ -18,14 +16,19 @@
 
 <style>
   /* DESKTOP STYLING */
+
   nav {
+    background-image: url(abstract-comic.avif);
+    background-blend-mode: soft-light;
+    background-size: cover;
+    background-repeat: no-repeat;
     background-color: #ffe1a5;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: -1em;
-    padding: -1em;
     gap: 2em;
+    view-transition-name: nav;
   }
 
   ul {
@@ -45,19 +48,19 @@
 
   p {
     font-family: var(--vtPrimaryFont);
-    color: hotpink;
     font-size: 31px;
+    font-style: oblique;
     font-weight: bold;
-    position: absolute;
-    left: 39em;
-    z-index: 1;
-    rotate: 10deg;
-    top: 2em;
     color: white;
     text-shadow: 2px 2px 4px #000000;
-    font-style: oblique;
+    position: absolute;
+    width: 8vw;
+    margin-left: 28em;
+    z-index: 1;
+    rotate: 10deg;
   }
 
+  /* P ANIMATION */
   @keyframes AAA-animation {
     0% {
       scale: 1;
@@ -71,6 +74,7 @@
     animation-name: AAA-animation;
     animation-duration: 1s;
     animation-iteration-count: infinite;
+    animation-direction: alternate;
   }
 
   a:hover {
@@ -89,17 +93,12 @@
     left: 5em;
   }
 
-  .popartrondjes {
-    height: auto;
-    width: 12em;
-    position: relative;
-    left: -12em;
-    top: 0em;
-  }
-
   /* MOBILE STYLING*/
   @media only screen and (max-width: 767px) {
     ul {
+      display: none;
+    }
+    .popartwolk {
       display: none;
     }
   }
