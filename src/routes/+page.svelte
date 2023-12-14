@@ -1,20 +1,19 @@
-<!-- <script>
+<script>
   import Footer from "../lib/components/footer.svelte";
   import Header from "../lib/components/header.svelte";
-</script> -->
+  import Kennisclips from "../routes/kennisclips/+page.svelte";
+</script>
 
-<!-- 
-<Header /> -->
+<Header />
 
-<!-- <main>
-  <Overons />
+<main>
   <Kennisclips />
-</main> -->
+</main>
 
 <!-- <Footer /> -->
-<!-- 
- <style>
+
+<style>
   main {
     position: relative;
   }
-</style>  -->
+</style>
