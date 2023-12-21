@@ -52,7 +52,15 @@
     position: absolute;
   }
 
-  /* BERG - MOUNTAIN- STYLING */
+  /* BERG - MOUNTAIN - STYLING */
+  .berg,
+  .berg1 {
+    width: 38vw;
+    height: 30em;
+    position: absolute;
+    background-color: #a17a74;
+  }
+
   .berg {
     margin: 0em;
     margin-left: -1em;
@@ -67,14 +75,6 @@
     border-top-left-radius: 13em;
     background: linear-gradient(to left, #a17a74, rgba(87, 87, 87, 0.5)),
       url(https://1.bp.blogspot.com/-Zoy_zOte-Pk/VfcVS2lkK9I/AAAAAAAAIGM/SLV5Cs2Ajmc/s1600/Dark%2Bmountain%2Btexture%2Bsep.jpg);
-  }
-
-  .berg,
-  .berg1 {
-    width: 38vw;
-    height: 30em;
-    position: absolute;
-    background-color: #a17a74;
   }
 
   /* WATER - ZEE - STYLING */
@@ -227,5 +227,21 @@
     width: 110px;
     height: 110px;
     animation-delay: 3s;
+  }
+
+  /* BUBBLEGUM - POP-IN - ANIMATION - STYLING  */
+  @keyframes pop-in {
+    0% {
+      opacity: 0;
+      transform: scale(0.1);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  .bubblegum {
+    animation: pop-in 0.5s;
   }
 </style>
