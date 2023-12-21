@@ -38,18 +38,18 @@
 <style>
   /* IMG - GRASS - MOND - STYLING */
   .grass {
-    width: 6vw;
-    position: absolute;
-    margin-top: 25.5em;
-    margin-left: 6em;
     z-index: 1;
+    width: 6vw;
+    margin-left: 6em;
+    margin-top: 25.5em;
+    position: absolute;
   }
 
   .mond {
     width: 24vw;
-    position: absolute;
     margin-top: -9em;
     margin-left: 25em;
+    position: absolute;
   }
 
   /* BERG - MOUNTAIN- STYLING */
@@ -77,12 +77,12 @@
 
   /* WATER - ZEE - STYLING */
   .water {
-    background-color: skyblue;
     width: 101vw;
     height: 20em;
     margin: -1em;
-    position: relative;
     bottom: -30em;
+    position: relative;
+    background-color: skyblue;
   }
 
   /* STEEN - ROTSEN - STYLING */
@@ -126,39 +126,39 @@
   }
 
   .rots3 {
-    background-color: darkgray;
-    width: 6vw;
-    height: 3em;
-    border-top-left-radius: 25em;
-    border-top-right-radius: 26em;
-    position: relative;
     top: 7em;
     left: 57em;
+    width: 6vw;
+    height: 3em;
+    position: relative;
+    background-color: darkgray;
+    border-top-left-radius: 25em;
+    border-top-right-radius: 26em;
     background: linear-gradient(to left, #888888, rgba(3, 3, 3, 0.358)),
       url(https://grainy-gradients.vercel.app/noise.svg);
   }
 
   .rots4 {
-    width: 14vw;
-    height: 7em;
     top: 0em;
     left: 59em;
+    width: 14vw;
+    height: 7em;
     position: relative;
+    background-color: gray;
     border-top-left-radius: 9em;
     border-top-right-radius: 13em;
-    background-color: gray;
     background: linear-gradient(to right, #3f3f41, rgba(87, 87, 87, 0.5)),
       url(https://grainy-gradients.vercel.app/noise.svg);
   }
 
   /* BUBBLEGUM - ANIMATION - STYLING  */
   .bubblegum {
-    position: absolute;
     top: -2em;
     left: 41em;
     width: 100%;
     height: 100%;
     overflow: hidden;
+    position: absolute;
   }
 
   @keyframes bubble {
@@ -175,11 +175,11 @@
   }
 
   .bubblegum section {
+    top: 0em;
     width: 100px;
     height: 100px;
     border-radius: 50%;
     background-color: pink;
-    top: 0em;
     animation: bubble 10s linear infinite;
   }
 
