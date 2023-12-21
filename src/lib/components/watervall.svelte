@@ -57,12 +57,16 @@
     margin: 0em;
     margin-left: -1em;
     border-top-right-radius: 13em;
+    background: linear-gradient(to right, #a17a74, rgba(87, 87, 87, 0.5)),
+      url(https://1.bp.blogspot.com/-Zoy_zOte-Pk/VfcVS2lkK9I/AAAAAAAAIGM/SLV5Cs2Ajmc/s1600/Dark%2Bmountain%2Btexture%2Bsep.jpg);
   }
 
   .berg1 {
     margin: 0em;
     margin-left: 56em;
     border-top-left-radius: 13em;
+    background: linear-gradient(to left, #a17a74, rgba(87, 87, 87, 0.5)),
+      url(https://1.bp.blogspot.com/-Zoy_zOte-Pk/VfcVS2lkK9I/AAAAAAAAIGM/SLV5Cs2Ajmc/s1600/Dark%2Bmountain%2Btexture%2Bsep.jpg);
   }
 
   .berg,
@@ -71,8 +75,6 @@
     height: 30em;
     position: absolute;
     background-color: #a17a74;
-    background: linear-gradient(to left, #a17a74, rgba(87, 87, 87, 0.5)),
-      url(https://1.bp.blogspot.com/-Zoy_zOte-Pk/VfcVS2lkK9I/AAAAAAAAIGM/SLV5Cs2Ajmc/s1600/Dark%2Bmountain%2Btexture%2Bsep.jpg);
   }
 
   /* WATER - ZEE - STYLING */
