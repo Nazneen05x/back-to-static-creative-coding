@@ -1,11 +1,12 @@
 <!-- IMG - GRASS -->
 <section class="green">
-  <img class="grass" src="/grass.png" alt="grass" />
+  <img class="grass" src="/grass.webp" alt="grass" />
 </section>
 
 <!-- IMG - MOND -->
 <section class="mond">
-  <img src="/mond.jpg" alt="mond" />
+  <img src="/mond.webp" alt="mond" />
+  
 </section>
 
 <!-- BERG - MOUNTAIN -->
