@@ -1,20 +1,26 @@
-<script>
-  // import Footer from "../lib/components/footer.svelte";
-  // import Header from "../lib/components/header.svelte";
-  // import Kennisclips from "../routes/kennisclips/+page.svelte";
-  import Watervall from "../lib/components/watervall.svelte";
-</script>
-
-<!-- <Header /> -->
-
 <main>
-  <Watervall />
+  <h1>Creative coding</h1>
+
+  <a href="/footer">WEEK1: Magical blur en gradient footer </a>
+  <a href="/header">WEEK2: Hysterical spooky popart menu page-transition</a>
+  <a href="/watervall">WEEK3: Bizarre ballenbak bubbelgum cascade</a>
 </main>
 
-<!-- <Footer /> -->
-
-<!-- <style>
+<style>
   main {
-    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    gap: 1em;
   }
-</style> -->
+
+  h1 {
+    font-size: xxx-large;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  a {
+    font-size: xx-large;
+    font-family: "Courier New", Courier, monospace;
+  }
+</style>
