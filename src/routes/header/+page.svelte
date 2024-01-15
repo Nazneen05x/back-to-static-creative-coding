@@ -4,7 +4,7 @@
 
 <nav style="background-image: {backgroundImage};">
   <ul>
-    <li><a href="/#">Tekenmethodes</a></li>
+    <li><a href="">Tekenmethodes</a></li>
     <li><a href="/kennisclips">Kennisclips</a></li>
   </ul>
   
@@ -14,7 +14,7 @@
 
   <ul>
     <li><a href="/overons">Over</a></li>
-    <li><a href="/#">Artikelen</a></li>
+    <li><a href="">Artikelen</a></li>
   </ul>
 
   <p aria-label="AAA">AAAH!!</p>
