@@ -1,4 +1,4 @@
-<!-- <script>
+<script>
   import { onNavigate } from "$app/navigation";
 
   onNavigate((navigation) => {
@@ -49,6 +49,6 @@
       90ms cubic-bezier(0, 0, 0.2, 1) 90ms both fade-in,
       200ms cubic-bezier(0.4, 0, 0.2, 1) both slide-from-right;
   }
-</style> -->
+</style>
 
 <main><slot /></main>
