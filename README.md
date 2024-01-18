@@ -1,5 +1,8 @@
 # CREATIVE CODING
 
+<img width="600" alt="Scherm­afbeelding 2024-01-18 om 01 09 54" src="https://github.com/Nazneen05x/back-to-static-creative-coding/assets/112861261/4ca8d2ae-68a2-4cc9-ae6d-8bca0ce9cc3b">
+
+
 ### DOEL
  
 Het doel van deze deeltaak is het ontwerpen (bedenken) en realiseren van verschillende creatieve opdrachten voor de opdrachtgever. De eerste twee weken heb ik gewerkt met de huisstijl van de opdrachtgever, daarna in de laatste week heb ik de huisstijl van de opdrachtgever losgelaten. 
@@ -7,7 +10,11 @@ Het doel van deze deeltaak is het ontwerpen (bedenken) en realiseren van verschi
 ----
 ### OPDRACHTEN 
 
+Ik heb deze drie weken nieuwe technieken geleerd, maar ook terug naar de basics. Voordat ik begon met het bouwen van de opdrachten, heb ik eerst onderzoek (inspiratie) gedaan en ontwerpen (schetsen) gemaakt. Het hele proces kan je terug lezen en zien in mijn wiki. 
 
+> Bekijk hier de wiki: https://github.com/Nazneen05x/back-to-static-creative-coding/wiki
+
+> Bekijk hier de opdrachten: https://back-to-static-creative-coding-red.vercel.app/
 
 ### WEEK 1: ✨ Magical blur en gradient footer ✨
 <img width="500" alt="Scherm­afbeelding 2023-12-07 om 21 30 28" src="https://github.com/Nazneen05x/back-to-static-creative-coding/assets/112861261/914d3463-ed83-4fa7-9e99-ff9a5d4b074a">
