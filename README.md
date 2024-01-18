@@ -24,13 +24,18 @@ Het doel van deze deeltaak is het ontwerpen (bedenken) en realiseren van verschi
 </ul>
 
 ----
-### OPDRACHTEN 
 
 ### Analysefase 🕵🏾‍♀️
 
 ### Ontwerpfase 👩🏾‍🎨
 
-### 
+### Bouwfase 👩🏾‍💻
+
+### Integratiefase 👩🏾‍🏭
+
+### Testfase 👩🏾‍🔬
+
+### OPDRACHTEN 
 
 > Bekijk hier de wiki: https://github.com/Nazneen05x/back-to-static-creative-coding/wiki
 
