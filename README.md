@@ -39,7 +39,12 @@ In de ontwerpfase heb ik de ideeën die ik gekregen heb tijdens de onderzoeksfas
 In de bouwfase ben ik de schetsen (ontwerpen) gaan realiseren in de code. 
 ### Integratiefase 👩🏾‍🏭
 
+In de integratiefase heb ik 
+de creative coding opdrachten live gezet met Vercel. 
+
 ### Testfase 👩🏾‍🔬
+
+In de testfase heb ik verschillende testen uitgevoerd om de opdrachten beter te maken voor de eindgebruikers
 
 ### OPDRACHTEN 
 
