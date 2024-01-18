@@ -46,9 +46,11 @@ de creative coding opdrachten live gezet met Vercel.
 
 In de testfase heb ik verschillende testen uitgevoerd om de opdrachten beter te maken voor de eindgebruikers
 
+> Bekijk hier de wiki: https://github.com/Nazneen05x/back-to-static-creative-coding/wiki
+
+
 ### OPDRACHTEN 
 
-> Bekijk hier de wiki: https://github.com/Nazneen05x/back-to-static-creative-coding/wiki
 
 > Bekijk hier de opdrachten: https://back-to-static-creative-coding-red.vercel.app/
 
