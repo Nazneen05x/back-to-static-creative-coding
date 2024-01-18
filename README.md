@@ -29,10 +29,14 @@ Het doel van deze deeltaak is het ontwerpen (bedenken) en realiseren van verschi
 
 ### Analysefase 🕵🏾‍♀️
 
+Ik ben eerst begonnen met de onderzoeksfase, het krijgen (uitkiezen) van de opdracht en daarna inspiratie opdoen om zo op ideeën te komen. 
+
 ### Ontwerpfase 👩🏾‍🎨
 
-### Bouwfase 👩🏾‍💻
+In de ontwerpfase heb ik de ideeën die ik gekregen heb tijdens de onderzoeksfase visueel gemaakt door middel van schetsen (ontwerpen). 
 
+### Bouwfase 👩🏾‍💻
+In de bouwfase ben ik de schetsen (ontwerpen) gaan realiseren in de code. 
 ### Integratiefase 👩🏾‍🏭
 
 ### Testfase 👩🏾‍🔬
