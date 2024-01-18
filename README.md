@@ -40,4 +40,5 @@ Ik heb deze drie weken nieuwe technieken geleerd, maar ook terug naar de basics.
  <li>CSS</li>
  <li>Javascript</li>
 <li>Svelte</li>
+ <li>View transitions API</li>
 </ul>
