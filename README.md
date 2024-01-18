@@ -7,6 +7,22 @@
  
 Het doel van deze deeltaak is het ontwerpen (bedenken) en realiseren van verschillende creatieve opdrachten voor de opdrachtgever. De eerste twee weken heb ik gewerkt met de huisstijl van de opdrachtgever, daarna in de laatste week heb ik de huisstijl van de opdrachtgever losgelaten. 
 
+-----
+<strong>`TOOLS 🧰`</strong>
+<ul>
+<li>VSCode</li>
+<li>Ipad (schetsen)</li>
+</ul>
+
+<strong>`GEBRUIKTE TECHNIEKEN 🪚`</strong>
+<ul>
+<li>HTML</li>
+ <li>CSS</li>
+ <li>Javascript</li>
+<li>Svelte</li>
+ <li>View transitions API</li>
+</ul>
+
 ----
 ### OPDRACHTEN 
 
@@ -27,18 +43,4 @@ Ik heb deze drie weken nieuwe technieken geleerd, maar ook terug naar de basics.
 
 <img width="500" alt="Scherm­afbeelding 2024-01-18 om 00 33 31" src="https://github.com/Nazneen05x/back-to-static-creative-coding/assets/112861261/a59fe750-902f-40f5-b31a-e6819c800ebe">
 
------
-<strong>`TOOLS 🧰`</strong>
-<ul>
-<li>VSCode</li>
-<li>Ipad (schetsen)</li>
-</ul>
 
-<strong>`GEBRUIKTE TECHNIEKEN 🪚`</strong>
-<ul>
-<li>HTML</li>
- <li>CSS</li>
- <li>Javascript</li>
-<li>Svelte</li>
- <li>View transitions API</li>
-</ul>
