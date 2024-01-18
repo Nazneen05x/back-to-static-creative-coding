@@ -25,6 +25,8 @@ Het doel van deze deeltaak is het ontwerpen (bedenken) en realiseren van verschi
 
 ----
 
+### PROCESS
+
 ### Analysefase 🕵🏾‍♀️
 
 ### Ontwerpfase 👩🏾‍🎨
